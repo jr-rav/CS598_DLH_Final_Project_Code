@@ -1,0 +1,4 @@
+data/data_arrays.npz
+data/chartevents_reduced.csv
+data/chart_outputs_reduced.csv
+data/chart_outputs_reduced.pkl
