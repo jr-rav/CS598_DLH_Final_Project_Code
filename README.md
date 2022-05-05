@@ -24,6 +24,10 @@ The code developed by us contains the following directories and important files:
 
 data  - This directory contains the csv files and the pickle files for all the pre-processed data that was generated during the pre-processing operations of the code. These files are used to 
         get a final dataset used by the training and testing modules of the code. 
+
+The link below contains additional data that goes into the data folder that could not fit on github due to file size limit:
+
+https://uofi.box.com/s/85970tt3u39cd9sdwnttq3nimk3ovps6
         
 related_code/data_load.py  -- Contains the code to load the initial data from the MIMICIII dataset. 
 
